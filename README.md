@@ -7,6 +7,7 @@
        alt="snake" />
 </div>
 </a>
+
 Curso de [NodeJS](https://nodejs.org/en) de [ItAcademy](https://www.barcelonactiva.cat/es/itacademy).
 
 ## Información del proyecto
